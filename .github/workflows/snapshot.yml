@@ -5,7 +5,7 @@ name: Snapshot Build
 # The VERSION is the main release number i.e. 1.8 or 2.1
 env:
   BUILD_NAME:           ICS-JDF-MIS-PP
-  DOCUMENT_VERSION:     '1.8'
+  DOCUMENT_VERSION:     '1.9'
   DOCUMENT_COVER_TITLE: MIS to Prepress ICS
   CONFIG_FILE:          Build\ICS_JDF_MIS_Prepress.ini
   CONFLUENCE_ID:        '1560313992'
